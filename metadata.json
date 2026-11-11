@@ -1,0 +1,6 @@
+{
+  "name": "AGENT 05 — Financial Intelligence & Revenue Optimization",
+  "description": "Chief Financial Intelligence Analyst platform for evaluating portfolio revenue, commercial viability, cash flow scenarios, break-even models, and executive CEO reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
